@@ -1,0 +1,107 @@
+
+        @import url('https://fonts.cdnfonts.com/css/boltiz');
+        @import url('https://fonts.cdnfonts.com/css/8bit-wonder');
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@900&display=swap');
+        body {
+          font-family: '8BIT WONDER', sans-serif;
+          margin: 0;
+          background-color: rgb(32, 27, 27);
+        }
+        #Page{
+          width: 500px;
+          height: 1000px;
+          
+        }
+        #F{
+          position: relative;
+          color: #ffffff;
+          left: 40px;
+          font-family: '8BIT WONDER', sans-serif;
+        }
+        #E{
+          position: relative;
+          color: #fcfffa;
+          font-size: 15px;
+          top: -38px;
+          text-align: right;
+          right: 10px;
+          font-family: 'Noto Sans Arabic', sans-serif;
+        }
+        #G{
+            position: relative;
+            top: -76px;
+            right: -5px;
+        }
+        /*Rooms*/
+        #R2{
+            left: 380px;
+            top: -189px;
+        }
+        #R3{
+            top: -170px;
+        }
+        #R4{
+            top: -989px;
+            left: 750px;
+            height: 300px;
+            width: 500px;
+        }
+        #R4W{
+            height: 300px;
+            width: 500px;
+        }
+        #R5{
+          top: -150px;
+        }
+        #R6{
+          right: -380px;
+          top: 
+          -570px;
+        }
+        #R7{
+          top: -1308px;
+          left: 290pt;
+        }
+        #Fr{
+          left: 770px;
+          top: -975px;
+          height: 460px;
+          width: 460px;
+          background-color: rgba(32, 27, 27, 0.452);
+        }
+        #hd{
+          background-color: #6fecb89f;
+          left: 800px;
+          top: -1000px;
+          height: 60px;
+          width: 460px;
+        }
+        #PR{
+          position: relative;
+          top: -35px;
+          left: -190px;
+        }
+        #Name{
+          position: relative;
+          top: 15px;
+          right: 10px;
+        }
+        .header2 {
+          padding: 5px;
+          background: #ffffff;
+          color: white;
+          font-size: 8px;
+          color: #000;
+          text-align: center;
+        }
+        .blackside{
+          background-color: rgb(34, 32, 32);
+          height: 10px;
+          font-size: 8px;
+          position: relative;
+          top: -10px;
+        }
+        /* Page Content */
+        
+        
+       
